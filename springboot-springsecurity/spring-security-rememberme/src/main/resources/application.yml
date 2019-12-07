@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://47.102.194.203:3306/security?useUnicode=yes&characterEncoding=UTF-8&useSSL=false
+    username: root
+    password: '@712717'
+
+logging:
+  level:
+    com.mysql.jdbc.Driver: info

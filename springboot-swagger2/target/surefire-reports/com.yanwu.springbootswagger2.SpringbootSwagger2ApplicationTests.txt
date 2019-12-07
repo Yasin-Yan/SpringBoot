@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.yanwu.springbootswagger2.SpringbootSwagger2ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.824 s - in com.yanwu.springbootswagger2.SpringbootSwagger2ApplicationTests

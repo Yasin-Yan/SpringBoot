@@ -1,0 +1,5 @@
+com\yanwu\springbootswagger2\controller\UserController.class
+com\yanwu\springbootswagger2\SpringbootSwagger2Application.class
+com\yanwu\springbootswagger2\Config\SwaggerConfig.class
+com\yanwu\springbootswagger2\controller\HelloController.class
+com\yanwu\springbootswagger2\entity\User.class
